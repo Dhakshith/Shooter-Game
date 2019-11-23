@@ -1,2 +1,2 @@
-# Shooter-Game
+# Shooter Game
 A Shooting game made with Unity
